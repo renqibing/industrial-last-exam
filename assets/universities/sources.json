@@ -71,5 +71,77 @@
     "homepage": "https://www.ecust.edu.cn/",
     "sourcePage": "https://xiaoban.ecust.edu.cn/2007/0306/c10389a83979/page.htm",
     "originalFile": "https://xiaoban.ecust.edu.cn/_upload/article/files/d2/76/a11291914f8d8940cf0a3f5cbf13/b99d0a10-3438-4882-80aa-e8ea1e95ee90.doc"
+  },
+  {
+    "id": "ntu",
+    "name": "南洋理工大学",
+    "english": "Nanyang Technological University",
+    "filename": "ntu.png",
+    "original": "ntu.png",
+    "homepage": "https://www.ntu.edu.sg/",
+    "sourcePage": "https://www.ntu.edu.sg/",
+    "originalFile": "https://www.ntu.edu.sg/ResourcePackages/NTU/assets/images/NTU_Logo.png",
+    "wordmark": true,
+    "expanded": true
+  },
+  {
+    "id": "nus",
+    "name": "新加坡国立大学",
+    "english": "National University of Singapore",
+    "filename": "nus.gif",
+    "original": "nus.gif",
+    "homepage": "https://nus.edu.sg/",
+    "sourcePage": "https://www.comp.nus.edu.sg/~vldb2010/",
+    "originalFile": "https://www.comp.nus.edu.sg/~vldb2010/images/nuslogo2.gif",
+    "wordmark": true,
+    "expanded": true
+  },
+  {
+    "id": "eth",
+    "name": "苏黎世联邦理工学院",
+    "english": "ETH Zurich",
+    "filename": "eth.svg",
+    "original": "eth.svg",
+    "homepage": "https://ethz.ch/en.html",
+    "sourcePage": "https://ethz.ch/staffnet/de/service/kommunikation/corporate-design/logo.html",
+    "originalFile": "https://ethz.ch/etc/designs/ethz/img/header/ethz_logo_black.svg",
+    "wordmark": true,
+    "expanded": true
+  },
+  {
+    "id": "epfl",
+    "name": "洛桑联邦理工学院",
+    "english": "EPFL",
+    "filename": "epfl.svg",
+    "original": "epfl.svg",
+    "homepage": "https://www.epfl.ch/en/",
+    "sourcePage": "https://www.epfl.ch/about/overview/identity/",
+    "originalFile": "https://static.epfl.ch/latest/images/logo.svg",
+    "wordmark": true,
+    "expanded": true
+  },
+  {
+    "id": "cambridge",
+    "name": "剑桥大学",
+    "english": "University of Cambridge",
+    "filename": "cambridge.png",
+    "original": "cambridge.png",
+    "homepage": "https://www.cam.ac.uk/",
+    "sourcePage": "https://www.cam.ac.uk/brand-resources/logo",
+    "originalFile": "https://www.cam.ac.uk/sites/default/files/university-cambridge-full-colour-preferred-logo-transparency-2362x491.png",
+    "wordmark": true,
+    "expanded": true
+  },
+  {
+    "id": "tum",
+    "name": "慕尼黑工业大学",
+    "english": "Technical University of Munich",
+    "filename": "tum.svg",
+    "original": "tum.svg",
+    "homepage": "https://www.tum.de/en/",
+    "sourcePage": "https://www.tum.de/en/",
+    "originalFile": "https://www.tum.de/en/",
+    "wordmark": true,
+    "expanded": true
   }
 ]
