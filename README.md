@@ -9,3 +9,5 @@
 将本目录上传至仓库的 main 分支，在 Settings → Pages 中选择 Deploy from a branch，分支选择 main，目录选择 / (root)。
 
 index.html 已内嵌样式，说明图使用相对路径加载；不需要安装依赖或构建。
+
+学校 Logo 为官网公开素材；原始链接见 [素材来源](assets/universities/sources.json)。展示带支持鼠标悬停暂停及系统减少动态效果设置。

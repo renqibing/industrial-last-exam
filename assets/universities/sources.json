@@ -1,0 +1,75 @@
+[
+  {
+    "id": "sjtu",
+    "name": "上海交通大学",
+    "english": "Shanghai Jiao Tong University",
+    "filename": "sjtu.png",
+    "original": "sjtu.png",
+    "homepage": "https://www.sjtu.edu.cn/",
+    "sourcePage": "https://vi.sjtu.edu.cn/index.php/articles/bulletin/13",
+    "originalFile": "https://vi.sjtu.edu.cn/uploads/files/caf2f5045c47308250fab3812dfe2003-6896b91594f238b24e67696224948251.png"
+  },
+  {
+    "id": "berkeley",
+    "name": "加州大学伯克利分校",
+    "english": "UC Berkeley",
+    "filename": "berkeley.svg",
+    "original": "berkeley-official.svg",
+    "homepage": "https://www.berkeley.edu/",
+    "sourcePage": "https://brand.berkeley.edu/visual-identity/logos/",
+    "originalFile": "https://brand.berkeley.edu/wp-content/themes/gallantry/dist/imgs/logo-uc-berkeley.svg",
+    "wordmark": true
+  },
+  {
+    "id": "fudan",
+    "name": "复旦大学",
+    "english": "Fudan University",
+    "filename": "fudan.png",
+    "original": "fudan-seal.png",
+    "homepage": "https://www.fudan.edu.cn/",
+    "sourcePage": "https://ecology.fudan.edu.cn/gjxz/list.htm",
+    "originalFile": "https://ecology.fudan.edu.cn/_upload/article/images/1e/9c/3d5c8e924585b8db08bd3f555b9b/09ac58f7-a727-4dd2-bed2-1731c1bcf1aa.png"
+  },
+  {
+    "id": "stanford",
+    "name": "斯坦福大学",
+    "english": "Stanford University",
+    "filename": "stanford.png",
+    "original": "stanford-wordmark.png",
+    "homepage": "https://www.stanford.edu/",
+    "sourcePage": "https://identity.stanford.edu/visual-identity/stanford-logos/wordmarks/",
+    "originalFile": "https://identity.stanford.edu/wp-content/uploads/sites/3/2020/06/wordmark-nospace-red.png",
+    "wordmark": true
+  },
+  {
+    "id": "tsinghua",
+    "name": "清华大学",
+    "english": "Tsinghua University",
+    "filename": "tsinghua.jpg",
+    "original": "tsinghua.jpg",
+    "homepage": "https://www.tsinghua.edu.cn/",
+    "sourcePage": "https://vi.tsinghua.edu.cn/gk/xxbz/xh/bzjbzsy.htm",
+    "originalFile": "https://vi.tsinghua.edu.cn/__local/8/1C/21/2F02A66E31BF084FE340463BB47_B9A95F73_185BC.jpg",
+    "crop": true
+  },
+  {
+    "id": "pku",
+    "name": "北京大学",
+    "english": "Peking University",
+    "filename": "pku.png",
+    "original": "pku-0.png",
+    "homepage": "https://www.pku.edu.cn/",
+    "sourcePage": "https://vim.pku.edu.cn/",
+    "originalFile": "https://vim.pku.edu.cn/docs/20240527144201516364.zip"
+  },
+  {
+    "id": "ecust",
+    "name": "华东理工大学",
+    "english": "East China University of Science and Technology",
+    "filename": "ecust.png",
+    "original": "ecust-1.png",
+    "homepage": "https://www.ecust.edu.cn/",
+    "sourcePage": "https://xiaoban.ecust.edu.cn/2007/0306/c10389a83979/page.htm",
+    "originalFile": "https://xiaoban.ecust.edu.cn/_upload/article/files/d2/76/a11291914f8d8940cf0a3f5cbf13/b99d0a10-3438-4882-80aa-e8ea1e95ee90.doc"
+  }
+]
