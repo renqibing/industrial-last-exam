@@ -20,3 +20,7 @@ Last-exam（更难一档）：平均分低于 0.1（10%）；至少 1 道通过�
 达到任一门槛，即具备论文联合署名资格（Data Contributor）。同一题的额外变体按 1/3 道计；参考结果须由实际运行产生，并提供清楚的验收标准。
 发布前，我们会用届时最新强模型复测、筛题，确保题库在发布时仍有挑战性。
 署名规则参考并对齐：https://agents-last-exam.org/faq
+
+## 常见问题
+
+网页新增可展开 FAQ；“题目收录标准”和“难度与论文署名”链接会直接展开对应说明。参考 [收录标准](https://agents-last-exam.org/submit) 与 [官方 FAQ](https://agents-last-exam.org/faq)。全文也见 [faq.txt](faq.txt)。
