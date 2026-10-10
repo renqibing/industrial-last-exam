@@ -1,5 +1,13 @@
 Frequently asked questions
 
+What is the scope, and how does it differ from AI for Science?
+This round focuses on design and R&D for the pilot stage: process scale-up and pilot-plant design in chemical engineering, prototype and pilot-line design in mechanical or electronic engineering, and comparable engineering-validation scenarios in other fields. Tasks limited to laboratory-scale scientific exploration, proof of concept or bench-scale experiments are outside this round’s scope. Production execution and routine operations are evaluated separately.
+We define the scope by application stage and engineering requirements, rather than discipline labels alone. Research results can be a starting point, but the task must address a pilot application, real engineering constraints and assessable design deliverables. Design, modeling, simulation and checks can take place in professional software; AI is not required to operate physical equipment.
+
+How do I describe the pilot context? Is another field needed?
+No extra field is needed. In the task description, state the pilot application, validation stage, intended scale and main constraints—for example, throughput, dimensions, power or prototype performance. Provide shareable engineering files, data and design inputs with the starting materials. In the acceptance checks, state clear criteria and provide reference results from actually completing the task.
+Use the language and measures familiar to your field. You can submit without a scoring script; the materials must support reproduction and the deliverables must be checkable against the pilot-stage engineering requirements.
+
 What makes a task eligible?
 Real: drawn from actual work, using professional software common in the field. Difficult: requires domain expertise and substantial work, usually several days for an expert. Assessable: has clear deliverables and checks. Before accepting a task, we check that the materials are complete, the workflow is reproducible and the reference results come from actual work. We also test its difficulty.
 
@@ -22,8 +30,8 @@ Last-exam: average score below 0.1 (10%). At least 1 accepted task qualifies you
 Meeting either threshold qualifies you for paper co-authorship as a Data Contributor. Only accepted tasks count; each additional variant of the same task counts as 1/3 of a task. Reference results must come from actual runs, with clear acceptance criteria.
 Before release, we will retest and select tasks using the latest strong models so the benchmark remains challenging when published.
 
-Are there cash awards?
-Outstanding contributions may receive cash awards. Amounts, available awards and payment arrangements will follow the reward rules announced by this project.
+What can I gain from contributing?
+Learn what AI can do in your field, connect with engineers, AI researchers and industry peers, and explore joint research. Meeting the contribution criteria qualifies you for paper co-authorship. Outstanding contributions may receive cash awards; amounts, available awards and payment arrangements follow the rules announced by this project.
 
 How do I send you the finished task?
 Click “Submit task” to save your description and attachments to this project’s backend. A submission ID confirms they have been saved. You can also export a task package as a local backup.

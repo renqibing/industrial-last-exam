@@ -1,4 +1,4 @@
-const EXAMPLE={"task":"根据原理图完成 Mini Encabulator 的 PCB 布局与布线，适配 SN25 外壳。设置四个 M3 安装孔，孔距 40.005 × 32.004 mm；添加板边、双面 GND 覆铜和接地过孔。","materials":"原理图：mini_encabulator.kicad_sch。如依赖专用封装库或外壳尺寸资料，请一并提供。","software":"KiCad 10.0，Windows；如需专用库，请一并提供。","output":"交付可编辑的 mini_encabulator.kicad_pcb，完成元件布局、全部布线、板边与覆铜。","acceptance":"硬标准：DRC 违规和未连接项均为 0；四个安装孔，孔距 40.005 × 32.004 mm，容差 ±0.127 mm；双面 GND 覆铜已填充。软标准（可选）：提供参考布局和验收要点，由 AI 辅助评审布局合理性，必要时专家复核。","contact":""};const GUIDE=document.querySelector('.guide-trigger img').src;
+const EXAMPLE={"task":"为一套中试装置的控制系统完成控制板 PCB 布局与布线。依据给定原理图、外壳和安装条件，完成元件布局、布线、双面 GND 覆铜和接地过孔；满足附件规定的供电、接口、隔离、尺寸和安装约束。","materials":"起始文件：pilot_controller.kicad_sch、design_requirements.pdf；附外壳尺寸、接口与供电要求、专用封装库、参考布局和检查脚本（如有）。说明控制板用于什么中试装置及其设计工作条件。","software":"KiCad 10.0，Windows；如需专用库，请一并提供。","output":"交付可编辑的 pilot_controller.kicad_pcb、DRC 报告，以及对中试设计要求的逐项检查结果。","acceptance":"硬标准：DRC 违规和未连接项均为 0；尺寸、安装孔、接口、隔离和供电要求符合 design_requirements.pdf，并提供检查记录。软标准：对照实际完成的参考设计，评审布局、散热和可制造性；需要时由 AI 辅助评审、专家复核。","contact":""};const GUIDE=document.querySelector('.guide-trigger img').src;
 
 window.SUBMISSION_API_ENDPOINT="https://industrial-last-exam-receiver.renqibing.workers.dev/api/submissions";
 (() => {
@@ -155,7 +155,7 @@ window.SUBMISSION_API_ENDPOINT="https://industrial-last-exam-receiver.renqibing.
   close.onclick = () => preview.close();
   const picture = document.createElement('img');
   picture.src = GUIDE;
-  picture.alt = t('工业设计 Last Exam 提交说明完整图');
+  picture.alt = t('工程设计 LastXM 提交说明完整图');
   picture.style.width = '100%';
   preview.append(close, picture);
   document.body.append(preview);
@@ -319,7 +319,7 @@ window.SUBMISSION_API_ENDPOINT="https://industrial-last-exam-receiver.renqibing.
       const url = URL.createObjectURL(zip(packed));
       const link = document.createElement('a');
       link.href = url;
-      link.download = exportText('工业设计LastExam-任务包.zip');
+      link.download = exportText('工程设计LastXM-任务包.zip');
       document.body.append(link);
       link.click();
       link.remove();
@@ -340,7 +340,7 @@ window.SUBMISSION_API_ENDPOINT="https://industrial-last-exam-receiver.renqibing.
     drawFiles();
     preview.setAttribute('aria-label', t('提交说明完整图'));
     close.textContent = t('关闭');
-    picture.alt = t('工业设计 Last Exam 提交说明完整图');
+    picture.alt = t('工程设计 LastXM 提交说明完整图');
     picture.src = document.querySelector('.guide-trigger img').src;
     if (lastMessage) showMessage(lastMessage.message, lastMessage.success);
   }
