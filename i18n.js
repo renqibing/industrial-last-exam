@@ -191,44 +191,44 @@
   "附件暂时无法保存，请稍后重试。填写内容和附件仍在。": "Attachments cannot be saved right now. Try again shortly; your description and files are still here.",
   "附件保存未确认，请再试一次。填写内容和附件仍在。": "The attachment save is not confirmed. Retry; your description and files are still here.",
   "保存尚未确认，请再试一次。填写内容和附件仍在。": "Saving is not confirmed yet. Retry; your description and files are still here.",
-  "我们是一支关注 AI 与工程落地的跨学科团队。我们已在化工、PCB 和三维工程建模中积累一批真实任务，并与 Stanford、Berkeley 等高校及国内企业开展合作，正在打造「工程设计 LastXM」：用中试阶段的真实设计研发难题，检验 AI 能否用专业软件完成工程工作。题目要真实、够难、能验收；你不用懂 AI，像交给同事一样说明任务即可。参与者有机会与工程师、AI 研究者和产业伙伴交流、探索联合研究；达到贡献标准可参与论文联合署名，优秀贡献有机会获得奖金。": "We are an interdisciplinary team focused on AI and real engineering work. We have collected tasks in chemical engineering, PCB design and 3D engineering modeling, and collaborate with universities including Stanford and Berkeley and companies in China. Engineering Design LastXM benchmarks AI on real design and R&D challenges at the pilot stage, using professional software. Tasks should be real, difficult and assessable. No AI expertise is needed: brief us as you would a colleague. Contributors can connect with engineers, AI researchers and industry peers and explore joint research. Meeting the contribution criteria qualifies you for paper co-authorship; outstanding contributions may receive cash awards.",
   "工程设计 LastXM · 任务征集": "Engineering Design LastXM · Submit a task",
   "工程设计 LastXM 首页": "Engineering Design LastXM home",
   "工程设计 ": "Engineering Design ",
   "工程设计 LastXM ": "Engineering Design LastXM ",
-  "中试工程设计难题征集": "Call for pilot-stage design tasks",
-  "把中试里的设计难题，": "Bring your pilot-stage design tasks.",
-  "从化工、PCB 和三维工程建模的积累出发，征集各方向面向中试的设计研发任务。": "Building on our work in chemical engineering, PCB design and 3D modeling, we seek pilot-stage design and R&D tasks across these fields.",
   "CAD 建模、仿真、优化与设计验证贯穿各方向，跨专业任务也欢迎。": "CAD modeling, simulation, optimization and design validation span all fields. Tasks across disciplines are welcome.",
-  "提交一道中试工程设计难题": "Submit a pilot-stage design task",
-  "用专业语言填写，说明中试应用、目标规模和工程约束。": "Use the language of your field. Describe the pilot application, intended scale and engineering constraints.",
-  "像交给同事一样，写清中试应用或工程验证阶段、设计对象、目标规模和主要约束。": "Brief us as you would a colleague. State the pilot application or engineering-validation stage, design target, intended scale and main constraints.",
-  "例如：为中试装置设计控制板，依据给定原理图完成 PCB 布局布线，满足接口、隔离、尺寸和安装要求。": "For example: design a control board for pilot equipment, lay out and route the PCB from the supplied schematic, and meet interface, isolation, size and mounting requirements.",
   "提供工程文件、设计要求、参考结果或检查脚本；写清用途，也可填下载链接。": "Provide engineering files, design requirements, reference results or checking scripts. Explain their purpose, or provide download links.",
-  "例如：可编辑的 .kicad_pcb、DRC 报告，以及中试设计要求的逐项检查结果。": "For example: an editable .kicad_pcb, a DRC report and a check of each pilot-stage design requirement.",
   "例如：DRC 违规和未连接项均为 0；满足附件中的接口、隔离、安装等工程要求。没有脚本，就写你平时怎么验收，并附真实完成的参考结果。": "For example: zero DRC violations and unconnected items, with interface, isolation and mounting requirements met. Without a script, describe your usual checks and include reference results from a completed workflow.",
-  "中试控制板示例：任务、起始文件、软件、交付结果和验收办法": "Pilot control-board example: task, starting files, software, deliverables and acceptance checks",
-  "中试控制板示例，仅演示填写方式；实际题目需附可复现材料，并通过难度审核。": "Pilot control-board example: a guide to filling in the form. Actual tasks require reproducible materials and difficulty review.",
-  "填入中试 PCB 示例": "Load pilot PCB example",
   "参与有哪些收获？": "What can I gain from contributing?",
   "你可以了解 AI 在本专业的实际能力，与不同领域的工程师、AI 研究者和产业伙伴交流，探索联合研究机会。达到贡献标准可参与论文联合署名；优秀贡献有机会获得奖金，金额、名额和发放安排以本项目公布的规则为准。": "Learn what AI can do in your field, connect with engineers, AI researchers and industry peers, and explore joint research. Meeting the contribution criteria qualifies you for paper co-authorship. Outstanding contributions may receive cash awards; amounts, available awards and payment arrangements follow the rules announced by this project.",
-  "面向中试与工程验证的设计研发 AI 基准": "An AI benchmark for pilot-stage design and engineering validation",
-  "只征集中试及同等工程验证阶段的设计研发任务；实验室原理验证、生产执行和日常运维不在本轮范围内。": "We seek design and R&D tasks for pilot-scale development and comparable engineering validation. Laboratory-only proof-of-concept tasks, production execution and routine operations are outside this round’s scope.",
   "征集范围": "Scope",
-  "先看范围：题目需对应中试及同等工程验证阶段的设计研发。满足范围后，再看三点：": "First check the scope: the task must address design and R&D for pilot-scale development or comparable engineering validation. Then check these three criteria:",
-  "面向哪些阶段？和 AI for Science 怎么区分？": "What is the scope, and how does it differ from AI for Science?",
-  "本轮聚焦面向中试的设计研发：化工可以是工程放大与中试装置设计，机械、电子等可以是样机与试验线设计，其他专业可用同等工程验证场景表述。只停留在实验室规模的科学探索、原理验证或小试题目暂不收录，生产执行和日常运维也另行评测。": "This round focuses on design and R&D for the pilot stage: process scale-up and pilot-plant design in chemical engineering, prototype and pilot-line design in mechanical or electronic engineering, and comparable engineering-validation scenarios in other fields. Tasks limited to laboratory-scale scientific exploration, proof of concept or bench-scale experiments are outside this round’s scope. Production execution and routine operations are evaluated separately.",
-  "我们按应用阶段与工程要求划定范围，而不是仅按学科标签分类。科学研究成果可以作为起点，但任务必须落到中试应用、真实工程约束和可验收的设计交付。可以在专业软件里完成设计、建模、仿真或校核，不要求 AI 直接操作现场设备。": "We define the scope by application stage and engineering requirements, rather than discipline labels alone. Research results can be a starting point, but the task must address a pilot application, real engineering constraints and assessable design deliverables. Design, modeling, simulation and checks can take place in professional software; AI is not required to operate physical equipment.",
-  "怎么说明中试背景？还要多填一项吗？": "How do I describe the pilot context? Is another field needed?",
-  "不用增加填写项。在“要做什么”中写清设计用于什么中试应用、处于哪个验证阶段、目标规模和主要约束，例如处理量、尺寸、功率或样机性能；在“起始材料”中提供可分享的工程文件、数据和设计依据；在“怎样算做对”中写清验收标准，并提供实际完成任务得到的参考结果。": "No extra field is needed. In the task description, state the pilot application, validation stage, intended scale and main constraints—for example, throughput, dimensions, power or prototype performance. Provide shareable engineering files, data and design inputs with the starting materials. In the acceptance checks, state clear criteria and provide reference results from actually completing the task.",
-  "按本专业的语言和指标说明即可。没有评分脚本也能提交，关键是材料足够复现，交付结果能按中试工程要求检查。": "Use the language and measures familiar to your field. You can submit without a scoring script; the materials must support reproduction and the deliverables must be checkable against the pilot-stage engineering requirements.",
-  "为一套中试装置的控制系统完成控制板 PCB 布局与布线。依据给定原理图、外壳和安装条件，完成元件布局、布线、双面 GND 覆铜和接地过孔；满足附件规定的供电、接口、隔离、尺寸和安装约束。": "Lay out and route a control-board PCB for a pilot plant or pilot equipment. Use the supplied schematic, enclosure and mounting conditions to complete component placement, routing, GND copper pours on both sides and ground vias. Meet the power, interface, isolation, size and mounting constraints in the design requirements.",
-  "起始文件：pilot_controller.kicad_sch、design_requirements.pdf；附外壳尺寸、接口与供电要求、专用封装库、参考布局和检查脚本（如有）。说明控制板用于什么中试装置及其设计工作条件。": "Starting files: pilot_controller.kicad_sch and design_requirements.pdf. Include enclosure dimensions, interface and power requirements, custom footprint libraries, a reference layout and checking scripts if available. Describe the pilot application and design operating conditions.",
   "KiCad 10.0，Windows；如需专用库，请一并提供。": "KiCad 10.0 on Windows. Include any required custom libraries.",
-  "交付可编辑的 pilot_controller.kicad_pcb、DRC 报告，以及对中试设计要求的逐项检查结果。": "Deliver an editable pilot_controller.kicad_pcb, a DRC report and a check of each pilot-stage design requirement.",
   "硬标准：DRC 违规和未连接项均为 0；尺寸、安装孔、接口、隔离和供电要求符合 design_requirements.pdf，并提供检查记录。软标准：对照实际完成的参考设计，评审布局、散热和可制造性；需要时由 AI 辅助评审、专家复核。": "Objective checks: zero DRC violations and unconnected items. Dimensions, mounting holes, interfaces, isolation and power requirements must meet design_requirements.pdf, with checking records. Expert review: compare the layout, thermal design and manufacturability with reference results from a completed workflow. AI can assist with review, with expert verification when needed.",
   "工程设计 LastXM 提交说明完整图": "Engineering Design LastXM full submission guide",
-  "工程设计LastXM-任务包.zip": "engineering-design-lastxm-task.zip"
+  "工程设计LastXM-任务包.zip": "engineering-design-lastxm-task.zip",
+  "真实工程设计难题征集": "Call for real engineering design tasks",
+  "把真实的设计难题，": "Bring your real design challenges.",
+  "从化工、PCB 和三维工程建模的积累出发，征集各方向的真实设计研发任务。": "Building on our work in chemical engineering, PCB design and 3D modeling, we seek real design and R&D tasks across these fields.",
+  "提交一道工程设计难题": "Submit an engineering design task",
+  "用专业语言填写，说明要做什么、有哪些约束、怎样验收。": "Use the language of your field. Describe the task, its constraints and how to check the result.",
+  "像交给同事一样，写清设计对象、使用场景、目标和主要约束。": "Brief us as you would a colleague. State the design target, application, goals and main constraints.",
+  "例如：设计一块控制板，依据给定原理图完成 PCB 布局布线，满足接口、隔离、尺寸和安装要求。": "For example: design a control board, lay out and route the PCB from the supplied schematic, and meet interface, isolation, size and mounting requirements.",
+  "例如：可编辑的 .kicad_pcb、DRC 报告，以及设计要求的逐项检查结果。": "For example: an editable .kicad_pcb, a DRC report and a check of each design requirement.",
+  "控制板示例：任务、起始文件、软件、交付结果和验收办法": "Control-board example: task, starting files, software, deliverables and acceptance checks",
+  "控制板示例，仅演示填写方式；实际题目需附可复现材料，并通过难度审核。": "Control-board example: a guide to filling in the form. Actual tasks require reproducible materials and difficulty review.",
+  "填入 PCB 示例": "Load PCB example",
+  "面向真实设计研发的 AI 基准": "An AI benchmark for real engineering design and R&D",
+  "方案设计、建模仿真、样机验证、工程放大与中试都欢迎；有真实工程约束、交付结果和验收办法即可提交。": "We welcome design, modeling, simulation, prototype validation, scale-up and pilot development. Submit tasks with real engineering constraints, concrete deliverables and acceptance checks.",
+  "我们征集有实际工程背景的设计研发任务，主要看三点：": "We seek design and R&D tasks with a real engineering context. The three main criteria are:",
+  "哪些设计研发任务适合？和 AI for Science 怎么区分？": "Which design and R&D tasks fit, and how does this differ from AI for Science?",
+  "从方案设计、建模仿真，到样机验证、工程放大与中试都欢迎。实验室阶段、原型或单个部件的任务，只要有明确的工程目标、真实约束、交付结果和验收办法，也可以提交。中试是重点方向之一，不是提交门槛。": "We welcome tasks from design, modeling and simulation to prototype validation, scale-up and pilot development. Laboratory-stage, prototype and component-level tasks are welcome when they have clear engineering goals, real constraints, concrete deliverables and acceptance checks. Pilot-stage work is one focus, rather than a requirement.",
+  "我们关注工程设计交付，不按学科标签或规模一刀切。科学研究成果可以作为输入；仅探索科学规律或验证原理、没有工程设计交付的任务，以及生产执行和日常运维，暂不纳入本轮。设计、建模、仿真或校核可在专业软件中完成，不要求 AI 直接操作现场设备。": "We focus on engineering design deliverables, rather than discipline labels or scale alone. Scientific research results can serve as inputs. Tasks solely about scientific discovery or proving a principle, without engineering design deliverables, are outside this round, as are production execution and routine operations. Design, modeling, simulation and checks can take place in professional software; AI is not required to operate physical equipment.",
+  "怎么说明工程背景？还要多填一项吗？": "How do I describe the engineering context? Is another field needed?",
+  "不用增加填写项。在“要做什么”中写清使用场景、设计目标和主要约束，例如处理量、尺寸、功率或性能；在“起始材料”中提供可分享的工程文件、数据和设计依据；在“怎样算做对”中写清验收标准，并提供实际完成任务得到的参考结果。": "No extra field is needed. In the task description, state the application, design goals and main constraints—for example, throughput, dimensions, power or performance. Provide shareable engineering files, data and design inputs with the starting materials. In the acceptance checks, state clear criteria and provide reference results from actually completing the task.",
+  "按本专业的语言和指标说明即可。没有评分脚本也能提交，关键是材料足够复现，交付结果能按工程要求检查。": "Use the language and measures familiar to your field. You can submit without a scoring script; the materials must support reproduction and the deliverables must be checkable against the engineering requirements.",
+  "为一套设备的控制系统完成控制板 PCB 布局与布线。依据给定原理图、外壳和安装条件，完成元件布局、布线、双面 GND 覆铜和接地过孔；满足附件规定的供电、接口、隔离、尺寸和安装约束。": "Lay out and route a control-board PCB for an equipment control system. Use the supplied schematic, enclosure and mounting conditions to complete component placement, routing, GND copper pours on both sides and ground vias. Meet the power, interface, isolation, size and mounting constraints in the design requirements.",
+  "起始文件：controller.kicad_sch、design_requirements.pdf；附外壳尺寸、接口与供电要求、专用封装库、参考布局和检查脚本（如有）。说明控制板的使用场景及其设计工作条件。": "Starting files: controller.kicad_sch and design_requirements.pdf. Include enclosure dimensions, interface and power requirements, custom footprint libraries, a reference layout and checking scripts if available. Describe the application and design operating conditions.",
+  "交付可编辑的 controller.kicad_pcb、DRC 报告，以及对设计要求的逐项检查结果。": "Deliver an editable controller.kicad_pcb, a DRC report and a check of each design requirement.",
+  "我们是一支关注 AI 与工程落地的跨学科团队。我们已在化工、PCB 和三维工程建模中积累一批真实任务，并与 Stanford、Berkeley 等高校及国内企业开展合作，正在打造「工程设计 LastXM」：用真实工程设计研发难题，检验 AI 能否用专业软件完成工程工作。题目要真实、够难、能验收；你不用懂 AI，像交给同事一样说明任务即可。参与者有机会与工程师、AI 研究者和产业伙伴交流、探索联合研究；达到贡献标准可参与论文联合署名，优秀贡献有机会获得奖金。": "We are an interdisciplinary team focused on AI and real engineering work. We have collected tasks in chemical engineering, PCB design and 3D engineering modeling, and collaborate with universities including Stanford and Berkeley and companies in China. Engineering Design LastXM benchmarks AI on real engineering design and R&D challenges, using professional software. Tasks should be real, difficult and assessable. No AI expertise is needed: brief us as you would a colleague. Contributors can connect with engineers, AI researchers and industry peers and explore joint research. Meeting the contribution criteria qualifies you for paper co-authorship; outstanding contributions may receive cash awards."
 };
   const reverse = new Map(Object.entries(translations).map(([zh, en]) => [en, zh]));
   let language = 'zh';
@@ -267,7 +267,7 @@
     document.title = translate(title);
     for (const { node, source } of texts) node.data = translate(source);
     for (const { element, name, source } of attributes) element.setAttribute(name, translate(source));
-    guide.src = next === 'en' ? './submission-guide.en.png?v=lastxm-pilot-1' : './submission-guide.png?v=lastxm-pilot-1';
+    guide.src = next === 'en' ? './submission-guide-engineering.en.png?v=lastxm-scope-2' : './submission-guide-engineering.png?v=lastxm-scope-2';
     banner.src = next === 'en' ? './engineering-domains-banner.en.png' : './engineering-domains-banner.png';
     buttons.forEach(button => button.setAttribute('aria-pressed', String(button.dataset.language === next)));
     if (remember) {

@@ -1,12 +1,12 @@
 Frequently asked questions
 
-What is the scope, and how does it differ from AI for Science?
-This round focuses on design and R&D for the pilot stage: process scale-up and pilot-plant design in chemical engineering, prototype and pilot-line design in mechanical or electronic engineering, and comparable engineering-validation scenarios in other fields. Tasks limited to laboratory-scale scientific exploration, proof of concept or bench-scale experiments are outside this round’s scope. Production execution and routine operations are evaluated separately.
-We define the scope by application stage and engineering requirements, rather than discipline labels alone. Research results can be a starting point, but the task must address a pilot application, real engineering constraints and assessable design deliverables. Design, modeling, simulation and checks can take place in professional software; AI is not required to operate physical equipment.
+Which design and R&D tasks fit, and how does this differ from AI for Science?
+We welcome tasks from design, modeling and simulation to prototype validation, scale-up and pilot development. Laboratory-stage, prototype and component-level tasks are welcome when they have clear engineering goals, real constraints, concrete deliverables and acceptance checks. Pilot-stage work is one focus, rather than a requirement.
+We focus on engineering design deliverables, rather than discipline labels or scale alone. Scientific research results can serve as inputs. Tasks solely about scientific discovery or proving a principle, without engineering design deliverables, are outside this round, as are production execution and routine operations. Design, modeling, simulation and checks can take place in professional software; AI is not required to operate physical equipment.
 
-How do I describe the pilot context? Is another field needed?
-No extra field is needed. In the task description, state the pilot application, validation stage, intended scale and main constraints—for example, throughput, dimensions, power or prototype performance. Provide shareable engineering files, data and design inputs with the starting materials. In the acceptance checks, state clear criteria and provide reference results from actually completing the task.
-Use the language and measures familiar to your field. You can submit without a scoring script; the materials must support reproduction and the deliverables must be checkable against the pilot-stage engineering requirements.
+How do I describe the engineering context? Is another field needed?
+No extra field is needed. In the task description, state the application, design goals and main constraints—for example, throughput, dimensions, power or performance. Provide shareable engineering files, data and design inputs with the starting materials. In the acceptance checks, state clear criteria and provide reference results from actually completing the task.
+Use the language and measures familiar to your field. You can submit without a scoring script; the materials must support reproduction and the deliverables must be checkable against the engineering requirements.
 
 What makes a task eligible?
 Real: drawn from actual work, using professional software common in the field. Difficult: requires domain expertise and substantial work, usually several days for an expert. Assessable: has clear deliverables and checks. Before accepting a task, we check that the materials are complete, the workflow is reproducible and the reference results come from actual work. We also test its difficulty.
