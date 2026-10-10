@@ -1,6 +1,16 @@
 (() => {
   'use strict';
   const translations = {
+  "浙江大学官网": "Zhejiang University website",
+  "浙江大学 Logo": "Zhejiang University logo",
+  "浙江大学": "Zhejiang University",
+  "南京大学官网": "Nanjing University website",
+  "南京大学 Logo": "Nanjing University logo",
+  "南京大学": "Nanjing University",
+  "中国科学技术大学官网": "University of Science and Technology of China website",
+  "中国科学技术大学 Logo": "University of Science and Technology of China logo",
+  "中国科学技术大学": "USTC",
+
   "页面帮助": "Page help",
   "收录标准": "Acceptance criteria",
   "常见问题": "FAQ",

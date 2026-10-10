@@ -10,17 +10,6 @@
     "originalFile": "https://vi.sjtu.edu.cn/uploads/files/caf2f5045c47308250fab3812dfe2003-6896b91594f238b24e67696224948251.png"
   },
   {
-    "id": "berkeley",
-    "name": "加州大学伯克利分校",
-    "english": "UC Berkeley",
-    "filename": "berkeley.svg",
-    "original": "berkeley-official.svg",
-    "homepage": "https://www.berkeley.edu/",
-    "sourcePage": "https://brand.berkeley.edu/visual-identity/logos/",
-    "originalFile": "https://brand.berkeley.edu/wp-content/themes/gallantry/dist/imgs/logo-uc-berkeley.svg",
-    "wordmark": true
-  },
-  {
     "id": "fudan",
     "name": "复旦大学",
     "english": "Fudan University",
@@ -31,15 +20,39 @@
     "originalFile": "https://ecology.fudan.edu.cn/_upload/article/images/1e/9c/3d5c8e924585b8db08bd3f555b9b/09ac58f7-a727-4dd2-bed2-1731c1bcf1aa.png"
   },
   {
-    "id": "stanford",
-    "name": "斯坦福大学",
-    "english": "Stanford University",
-    "filename": "stanford.png",
-    "original": "stanford-wordmark.png",
-    "homepage": "https://www.stanford.edu/",
-    "sourcePage": "https://identity.stanford.edu/visual-identity/stanford-logos/wordmarks/",
-    "originalFile": "https://identity.stanford.edu/wp-content/uploads/sites/3/2020/06/wordmark-nospace-red.png",
-    "wordmark": true
+    "id": "zju",
+    "name": "浙江大学",
+    "english": "Zhejiang University",
+    "filename": "zju.png",
+    "original": "zju.png",
+    "homepage": "https://www.zju.edu.cn/",
+    "sourcePage": "https://www.zju.edu.cn/514/listm.htm",
+    "originalFile": "https://www.zju.edu.cn/_upload/article/images/c3/98/1fb1d281492eb477a098ef7a2901/05966b26-ab45-470d-94c1-99b1e02d12f4.png",
+    "expanded": true
+  },
+  {
+    "id": "nju",
+    "name": "南京大学",
+    "english": "Nanjing University",
+    "filename": "nju.png",
+    "original": "nju.png",
+    "homepage": "https://www.nju.edu.cn/",
+    "sourcePage": "https://www.nju.edu.cn/ndgk/ndbs.htm",
+    "originalFile": "https://www.nju.edu.cn/__local/F/7A/1D/91723945F34FAA0A9C67700CF8F_13B47AE2_E3A7.png",
+    "wordmark": true,
+    "expanded": true
+  },
+  {
+    "id": "ustc",
+    "name": "中国科学技术大学",
+    "english": "University of Science and Technology of China",
+    "filename": "ustc.svg",
+    "original": "ustc.svg",
+    "homepage": "https://www.ustc.edu.cn/",
+    "sourcePage": "https://www.ustc.edu.cn/",
+    "originalFile": "https://www.ustc.edu.cn/news/images/logo.svg",
+    "wordmark": true,
+    "expanded": true
   },
   {
     "id": "tsinghua",
@@ -71,6 +84,28 @@
     "homepage": "https://www.ecust.edu.cn/",
     "sourcePage": "https://xiaoban.ecust.edu.cn/2007/0306/c10389a83979/page.htm",
     "originalFile": "https://xiaoban.ecust.edu.cn/_upload/article/files/d2/76/a11291914f8d8940cf0a3f5cbf13/b99d0a10-3438-4882-80aa-e8ea1e95ee90.doc"
+  },
+  {
+    "id": "berkeley",
+    "name": "加州大学伯克利分校",
+    "english": "UC Berkeley",
+    "filename": "berkeley.svg",
+    "original": "berkeley-official.svg",
+    "homepage": "https://www.berkeley.edu/",
+    "sourcePage": "https://brand.berkeley.edu/visual-identity/logos/",
+    "originalFile": "https://brand.berkeley.edu/wp-content/themes/gallantry/dist/imgs/logo-uc-berkeley.svg",
+    "wordmark": true
+  },
+  {
+    "id": "stanford",
+    "name": "斯坦福大学",
+    "english": "Stanford University",
+    "filename": "stanford.png",
+    "original": "stanford-wordmark.png",
+    "homepage": "https://www.stanford.edu/",
+    "sourcePage": "https://identity.stanford.edu/visual-identity/stanford-logos/wordmarks/",
+    "originalFile": "https://identity.stanford.edu/wp-content/uploads/sites/3/2020/06/wordmark-nospace-red.png",
+    "wordmark": true
   },
   {
     "id": "ntu",
