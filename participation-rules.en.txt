@@ -1,0 +1,8 @@
+Difficulty and paper co-authorship
+
+We test GPT-6 Astra and Claude Opus 5.5 against the same acceptance criteria and average their scores (out of 1). You do not need to test the task yourself.
+Near-term: average score below 0.5 (50%). At least 3 accepted tasks qualify you for paper co-authorship.
+Last-exam: average score below 0.1 (10%). At least 1 accepted task qualifies you for paper co-authorship.
+Meeting either threshold qualifies you for paper co-authorship as a Data Contributor. Each additional variant of the same task counts as 1/3 of a task. Reference results must come from actual runs, with clear acceptance criteria.
+Before release, we will retest and select tasks using the latest strong models so the benchmark remains challenging when published.
+Outstanding contributions may receive cash awards, under the reward rules announced by this project.

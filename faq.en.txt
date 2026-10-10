@@ -1,0 +1,30 @@
+Frequently asked questions
+
+What makes a task eligible?
+Real: drawn from actual work, using professional software common in the field. Difficult: requires domain expertise and substantial work, usually several days for an expert. Assessable: has clear deliverables and checks. Before accepting a task, we check that the materials are complete, the workflow is reproducible and the reference results come from actual work. We also test its difficulty.
+
+Which files should I prepare?
+Provide the starting project files, drawings or data, any required assets, plugins and custom libraries, and reference results from actually completing the task. Explain each file’s purpose, software versions, output formats and acceptance requirements. Screenshots can help. Use materials you have permission to share. For confidential projects, use public or de-identified data while keeping the real constraints.
+
+Do I need to know AI or test the task first?
+No AI knowledge or prior testing is required. Brief us as you would a colleague: explain the goal, starting materials, software, deliverables and checks. We handle the testing and review.
+
+Do I need a scoring script or a single correct answer?
+You do not need to code. Include checking scripts if you have them. Otherwise, specify checks such as dimensions, tolerances, connections and performance, with reference files or screenshots. Several solutions can be acceptable, as long as the criteria are clear. Turn “looks good” or “a sensible design” into specific checks. AI can assist with review, with expert verification when needed. Reference results must come from actually completing the workflow.
+
+Can I use commercial or in-house software?
+Yes, submit it for review. Specify the software, exact version, operating system, plugins and any license or account requirements. It must be installable, accessible and runnable for evaluation. For in-house software, describe a test environment or an alternative.
+
+How do Near-term, Last-exam and paper co-authorship work?
+We test GPT-6 Astra and Claude Opus 5.5 against the same acceptance criteria and average their scores (out of 1). You do not need to test the task yourself.
+Near-term: average score below 0.5 (50%). At least 3 accepted tasks qualify you for paper co-authorship.
+Last-exam: average score below 0.1 (10%). At least 1 accepted task qualifies you for paper co-authorship.
+Meeting either threshold qualifies you for paper co-authorship as a Data Contributor. Only accepted tasks count; each additional variant of the same task counts as 1/3 of a task. Reference results must come from actual runs, with clear acceptance criteria.
+Before release, we will retest and select tasks using the latest strong models so the benchmark remains challenging when published.
+
+Are there cash awards?
+Outstanding contributions may receive cash awards. Amounts, available awards and payment arrangements will follow the reward rules announced by this project.
+
+How do I send you the finished task?
+Click “Submit task” to save your description and attachments to this project’s backend. A submission ID confirms they have been saved. You can also export a task package as a local backup.
+Attach up to 10 files, totaling no more than 25 MB. For larger materials, put download links in “Starting materials”. Contact details are optional and help us follow up.
