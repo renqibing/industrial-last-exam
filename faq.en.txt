@@ -8,6 +8,56 @@ How do I describe the engineering context? Is another field needed?
 No extra field is needed. In the task description, state the application, design goals and main constraints—for example, throughput, dimensions, power or performance. Provide shareable engineering files, data and design inputs with the starting materials. In the acceptance checks, state clear criteria and provide reference results from actually completing the task.
 Use the language and measures familiar to your field. You can submit without a scoring script; the materials must support reproduction and the deliverables must be checkable against the engineering requirements.
 
+What tasks can my discipline contribute?
+
+These industry entry points help you find a direction, and a task can belong to several industries. The related disciplines and design examples below are illustrative; other disciplines and cross-industry tasks are welcome too.
+
+Materials & Chemicals
+Related disciplines: Materials, metallurgy, chemical engineering, polymers and non-metallic materials
+Task examples: Materials and formulations, metallurgical processes, chemical processes and equipment design
+
+Biopharma & Medical Devices
+Related disciplines: Pharmaceutical engineering, pharmacy, bioengineering and biomedical engineering
+Task examples: Pharmaceutical and bioprocess design, processing equipment and medical-device design
+
+Food & Consumer Products
+Related disciplines: Food engineering, light industry, textiles, packaging, wood and forest products, and industrial design
+Task examples: Food processes, textiles and paper products, packaging and consumer-product design
+
+Electronics & Semiconductors
+Related disciplines: Electronics, microelectronics, communications, optics and photonics, instrumentation and computer science
+Task examples: Chip and PCB design, antennas, optoelectronic devices and instrumentation
+
+Industrial Equipment & Robotics
+Related disciplines: Mechanical engineering, automation, intelligent manufacturing, industrial design, agricultural and forestry engineering
+Task examples: Components and machinery, robotic mechanisms and agricultural and forestry equipment
+
+Transport & Aerospace
+Related disciplines: Automotive, transport, rail, aerospace, naval architecture and marine engineering
+Task examples: Structures, components and systems for vehicles, aerospace and ships
+
+Energy & Power
+Related disciplines: Energy and power engineering, electrical and nuclear engineering, materials and chemical engineering
+Task examples: Generation and storage, grids and power systems, and heat-exchange equipment
+
+Buildings & Infrastructure
+Related disciplines: Architecture, urban planning, landscape architecture, civil, hydraulic and transport engineering, and surveying
+Task examples: Buildings and structures, roads and bridges, hydraulic works and urban infrastructure
+
+Mining & Oil/Gas Development
+Related disciplines: Geological, mining, mineral-processing and petroleum engineering, geophysics and surveying
+Task examples: Mine and mineral-processing plans, well design and surface engineering
+
+Water & Environment
+Related disciplines: Environmental engineering, water supply and drainage, municipal, hydraulic and chemical engineering
+Task examples: Water and drainage networks, water-treatment and pollution-control facilities
+
+Computer science, software, automation, controls, instrumentation, mechanics, industrial engineering and safety engineering can contribute across industries through design automation, specialized solvers and simulation, tooling and manufacturing-process design, systems integration and acceptance tools.
+
+Chemical and process engineering can contribute to pharmaceuticals, biomanufacturing, food, light industry and the environment. Manufacturing-process and tooling design, controls and automation, CAD/CAE, engineering software and systems integration can all be reused across industries.
+
+Faculty and industry experts can provide real tasks, engineering constraints and acceptance criteria. Students can help prepare materials, reproduce reference solutions and develop checking tools, then submit together.
+
 What makes a task eligible?
 Real: drawn from actual work, using professional software common in the field. Difficult: requires domain expertise and substantial work, usually several days for an expert. Assessable: has clear deliverables and checks. Before accepting a task, we check that the materials are complete, the workflow is reproducible and the reference results come from actual work. We also test its difficulty.
 
